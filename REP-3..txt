@@ -1,0 +1,9 @@
+                                  ALGORITHM TO DETERMINE THE VOTING ELIGIBILITY OF A PERSON
+ 
+
+step1:start
+step2:get the age for person in variable AGE
+step3:check,AGE is greater than or equal to 18
+step3.1:If true,display the message("THE PERSON IS ELIGIBLE TO VOTE")
+step3.2:otherwise,display the message"THE PERSON IS NOT ELIGIBLE TO VOTE"
+step4:stop
